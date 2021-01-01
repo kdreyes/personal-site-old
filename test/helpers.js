@@ -7,27 +7,27 @@ const randomString = (length) => {
 const pages = [
   {
     route: '/',
-    title: 'Michael D\'Angelo',
+    title: 'Katrina Delos Reyes',
     heading: 'ABOUT THIS SITE',
   },
   {
     route: '/about',
-    title: 'About | Michael D\'Angelo',
+    title: 'About | Katrina Delos Reyes',
     heading: 'ABOUT ME',
   },
-  {
-    route: '/projects',
-    title: 'Projects | Michael D\'Angelo',
-    heading: 'PROJECTS',
-  },
-  {
-    route: '/stats',
-    title: 'Stats | Michael D\'Angelo',
-    heading: 'STATS',
-  },
+  // {
+  //   route: '/endeavors',
+  //   title: 'Endeavors | Katrina Delos Reyes',
+  //   heading: 'ENDEAVORS',
+  // },
+  // {
+  //   route: '/blog',
+  //   title: 'Blog | Katrina Delos Reyes',
+  //   heading: 'BLOG',
+  // },
   {
     route: '/contact',
-    title: 'Contact | Michael D\'Angelo',
+    title: 'Contact | Katrina Delos Reyes',
     heading: 'CONTACT',
   },
 ];

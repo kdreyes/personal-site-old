@@ -1,4 +1,4 @@
-// TODO Add a couple lines about each project
+// TODO Add a couple lines about each endeavor
 const data = [
   {
     title: '',

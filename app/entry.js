@@ -9,9 +9,9 @@ import About from './views/About';
 import Contact from './views/Contact';
 import Index from './views/Index';
 import NotFound from './views/NotFound';
-import Projects from './views/Projects';
+// import Endeavors from './views/Endeavors';
 import Resume from './views/Resume';
-import Stats from './views/Stats';
+// import Blog from './views/Blog';
 
 // All of our CSS
 import './static/css/main.scss';
@@ -21,8 +21,8 @@ ReactDOM.render(
     <Switch>
       <Route exact path="/" component={Index} />
       <Route path="/about" component={About} />
-      <Route path="/projects" component={Projects} />
-      <Route path="/stats" component={Stats} />
+      {/* <Route path="/blog" component={Blog} />
+      <Route path="/endeavors" component={Endeavors} /> */}
       <Route path="/contact" component={Contact} />
       <Route path="/resume" component={Resume} />
       {/* Only useful in development mode */}
