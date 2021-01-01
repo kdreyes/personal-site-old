@@ -1,5 +1,7 @@
 # Personal Website
 
+My personal website, created by adapting mldangelo's repo (documentation found below)
+
 ## [mldangelo.com](http://mldangelo.com) and serverless [mldangelo.github.io/personal-site](https://mldangelo.github.io/personal-site/)
 
 My personal website. Easily modifiable, and built using modern javascript with Node.js, React, Express, React-Router, Hot Module Reloading, Webpack and many other technologies.
