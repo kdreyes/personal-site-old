@@ -1,7 +1,7 @@
 const data = [
   {
     path: '/',
-    label: 'Michael D\'Angelo',
+    label: 'Katrina Delos Reyes',
     index: true,
   },
   {
@@ -12,14 +12,14 @@ const data = [
     path: '/resume',
     label: 'Resume',
   },
-  {
-    path: '/projects',
-    label: 'Projects',
-  },
-  {
-    path: '/stats',
-    label: 'Stats',
-  },
+  // {
+  //   path: '/blog',
+  //   label: 'Blog',
+  // },
+  // {
+  //   path: '/endeavors',
+  //   label: 'Endeavors',
+  // },
   {
     path: '/contact',
     label: 'Contact',

@@ -87,16 +87,16 @@ const Contact = () => {
           </div>
         </header>
         <div className="email-at">
-          <p>Feel free to get in touch. You can email me at: </p>
+          <p>I'd love to chat! You can email me at: </p>
           <div
             className="inline-container"
             style={validateText(message) ? {} : { color: 'red' }}
             onMouseEnter={() => setIsActive(false)}
             onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
           >
-            <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>
+            <a href={validateText(message) ? `mailto:${message}@katrinadelosreyes.com` : ''}>
               <span>{message}</span>
-              <span>@mldangelo.com</span>
+              <span>@katrinadelosreyes.com</span>
             </a>
           </div>
         </div>
