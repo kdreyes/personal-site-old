@@ -15,12 +15,6 @@ Last but not least, I am a dance teacher at [BJCDA](https://www.bjcda.com/), whe
 
 - In 2000, my parents and I immigrated to the United States for a brighter future.
 
-- In 2002, I started school and had my first taste of struggling with different identities (do I speak Tagalog or English??)
-
-- In 2003, I (unfortunately at the time, fortunately now) got a little sister and best friend for life. I also started dancing, which I apparently wouldn't stop.
-
-- 2004 to 2012 are honestly a blur but were filled with school, family, friends, awkward middle school phase, and entering high school.
-
 - In 2012, I took my first programming class (because my parents told me to) and surprisingly really enjoyed it. Go Java.
 
 - In 2014, I was chosen to represent THS at the national [HOBY](https://www.hoby.org/) seminar, which gave me my first real sense of leadership.

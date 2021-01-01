@@ -13,12 +13,12 @@ const data = [
     label: 'Resume',
   },
   // {
-  //   path: '/blog',
-  //   label: 'Blog',
-  // },
-  // {
   //   path: '/endeavors',
   //   label: 'Endeavors',
+  // },
+  // {
+  //   path: '/blog',
+  //   label: 'Blog',
   // },
   {
     path: '/contact',
